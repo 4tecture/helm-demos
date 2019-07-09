@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  helloworld:
+  - apiVersion: v1
+    appVersion: "2.1"
+    created: 2019-07-09T08:06:18.3655193+02:00
+    description: Hello World App for demo purposes by 4tecture
+    digest: 3d351b9e6d1c2ab6e125317003cf3b96075902ecaf20d87d90cecf76e3ba25cd
+    name: helloworld
+    urls:
+    - helloworld-2.1.0.tgz
+    version: 2.1.0
+generated: 2019-07-09T08:06:18.3635178+02:00
